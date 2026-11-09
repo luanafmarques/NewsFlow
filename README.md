@@ -1,5 +1,6 @@
 # NewsFlow — do Gherkin ao Cucumber
 
+Alunas: Luana Ferreira Marques e Manuela Edmundo Moss
 Exercício de BDD sobre o NewsFlow, a plataforma de newsletters e notificações da Vértice:
 quatro histórias de usuário, cenários em Gherkin e uma suíte Cucumber.js que roda de verdade.
 
